@@ -7,7 +7,7 @@ page_type: sample
 name: "Data Binding Demo"
 ---
 # Data Binding Demo
-This sample creates a product listing application that allows users to enter items for sale. This sample demonstrates the following data binding concepts:
+JAY EDIT This sample creates a product listing application that allows users to enter items for sale. This sample demonstrates the following data binding concepts:
 - The binding object
 - Data context
 - Data templates
